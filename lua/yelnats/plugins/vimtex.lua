@@ -1,3 +1,4 @@
+-- render latex files
 return {
     'lervag/vimtex',
     lazy = false,

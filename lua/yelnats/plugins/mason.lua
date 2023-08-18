@@ -1,3 +1,4 @@
+-- nvim plugin manager with gui
 return {
     { "neovim/nvim-lspconfig" },
     {

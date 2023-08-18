@@ -1,3 +1,4 @@
+-- file search for nvim
 return {
     "nvim-telescope/telescope.nvim",
     dependencies = {

@@ -1,3 +1,4 @@
+-- Mark files to be able to quickly jump between marked files
 return {
     "ThePrimeagen/harpoon",
     lazy = false,
